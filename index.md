@@ -16,4 +16,4 @@
 
 ### Contact Information
 
-[mailto:liveplaymusic@yahoo.com](liveplaymusic@yahoo.com]
+[liveplaymusic@yahoo.com](mailto:liveplaymusic@yahoo.com]
